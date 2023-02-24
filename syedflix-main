@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>SYEDFLIX-watch online movies</title>
+<link rel = "stylesheet" href = "style.css">
+</head>
+
+<body>
+<h1>
+SYEDFLIX
+</h1>
+<a class = "login" href = "file:///home/syed/Desktop/SYEDFLIX/login"> Login </a><a class = "signup" href = "file:///home/syed/Desktop/SYEDFLIX/signup"> Sign up </a>
+<br><br>
+
+<p> <img class = "antman"src = "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYyaCMGIDqOrnfFiXD5Wj3--gOX6aYjvtE-DKc3ym6Wyr_UQqH"> <img class = "all_that" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7nQkGY4gqU6tH9D9KBNM4VFi9uoUmKqLT_7e-lGS1ehMtDLt"> <img class = "plane" src= "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLqejpiusMiWOouoNRooTV8Rhprv7vNvszGr37Rpia4A0StP0a"> </p>
+
+<p class = "trend"> <a style = "margin-left : 50px; text-decoration : None;" href = "https://youtu.be/5WfTEZJnv_8"> Antman and wasp Quantamania</a> <a style = "margin-left : 200px;text-decoration : None;" href = "https://youtu.be/GoTlULspDyY"> All That Breathes </a> <a style = "margin-left : 350px;text-decoration : None;" href = "https://youtu.be/M25zXBIUVr0"> Plane </a> </p>
+
+<br> <br> <p style = "color : white ; text-align : center ; text-decoration: None;"><a href= "file:///home/syed/Desktop/SYEDFLIX/home">Browse without Logging---></a>
+</p>
+
+</body>
+</html>
