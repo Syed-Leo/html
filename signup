@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> 
+SYEDFLIX-singup
+</title>
+<link rel = "stylesheet" href= "signup.css">
+</head>
+
+<body>
+<h1> SYEDFLIX </h1><h2>Sit.Watch.Enjoy<h><br>
+<a href= "file:///home/syed/Desktop/SYEDFLIX/main"><h5> Go Home </h5></a>
+<h4 style= "color: white; font-size : 20px; text-align : center;"> First Name </h4>
+<input type = "text" placeholder = "First Name">
+<h4 style= "color: white; font-size : 20px; text-align : center;"> Second Name</h4>
+<input type = "text" placeholder= "Second Name">
+<h4 style= "color: white; font-size : 20px; text-align : center;"> E-Mail</h4>
+<input type= "text" placeholder= "E-Mail">
+<h4 style= "color: white; font-size : 20px; text-align : center;"> Date of Birth</h4>
+<input type = "date">
+<h4 style= "color: white; font-size : 20px; text-align : center;"> Password</h4>
+<input type = "password" placeholder="Password"><br>
+
+<br><a href= "" style= "color : red ; font-size : 20px ; text-align : center ; text-decoration: None;"> Sign up </a>
+
+</body>
+</html>
+

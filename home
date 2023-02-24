@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>SYEDFLIX-home</title>
+<link rel = "stylesheet" href= "home.css">
+</head>
+
+<body>
+<h1>SYEDFLIX</h1>
+<h5>Sit.Watch.Enjoy</h5>
+<div class= "account">My Account</div>
+
+<div class= "search"> 
+<input class = "text" placeholder= "Search Here">
+</div>
+
+<div>
+<ul>
+<li><img src= "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYyaCMGIDqOrnfFiXD5Wj3--gOX6aYjvtE-DKc3ym6Wyr_UQqH"></li>
+<li><img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW7nQkGY4gqU6tH9D9KBNM4VFi9uoUmKqLT_7e-lGS1ehMtDLt"></li>
+<li><img src= "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLqejpiusMiWOouoNRooTV8Rhprv7vNvszGr37Rpia4A0StP0a"></li>
+</ul>
+</div>
+
+</body>
+</html>
