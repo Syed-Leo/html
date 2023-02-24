@@ -1,0 +1,65 @@
+body {
+background-color : black ;
+background-image : url("https://c4.wallpaperflare.com/wallpaper/18/254/495/movie-suicide-squad-black-hair-blonde-wallpaper-preview.jpg");
+background-repeat : no-repeat ;
+background-attachment : fixed ;
+background-size: 100% 100%;
+}
+
+h1 {
+color : red ;
+font-family : arial ;
+font-size : 130px ;
+text-align : center ;
+}
+
+.login {
+text-align : center ;
+font-family: monospace ;
+color : red ;
+text-decoration : None ;
+font-size : 20px ;
+font-weight : bold ;
+position : absolute ;
+top : 40px ;
+}
+
+.signup {
+text-align : center ;
+font-family: monospace ;
+color : red ;
+text-decoration : None ;
+font-size : 20px ;
+font-weight : bold ;
+position : absolute ;
+right : 15px ;
+top : 40px ;
+}
+
+.antman{
+height : 200px ;
+width : 200px ;
+border-radius : 50px 0 50px 0 ;
+padding-left : 50px ;
+}
+
+.all_that {
+height : 200px ;
+width : 200px ;
+border-radius : 50px 0 50px 0 ;
+margin-left : 250px ;
+}
+
+.plane{
+height : 200px ;
+width : 200px ;
+border-radius : 50px 0 50px 0 ;
+margin-left : 250px ;
+}
+
+.trend{
+color : white ;
+font-family : cursive ;
+font-size : 25px ;
+font-weight : bold ;
+}
