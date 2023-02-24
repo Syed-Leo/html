@@ -1,0 +1,35 @@
+h1 {
+color :red ;
+font-family : arial ;
+font-size : 50px ;
+}
+
+body{
+background-color : black ;
+}
+
+.account{
+color : red ;
+font-family : monospace ;
+position : absolute ;
+left : 1160px ;
+top : 30px ;
+font-size : 18px ;
+font-weight : bold ;
+}
+
+h5 {
+color : red ;
+font-family : monospace ;
+font-size : 18px ;
+position : absolute ;
+top : 35px ;
+}
+
+.search {
+position : absolute ;
+top : 20px ;
+left : 550px ;
+border : solid red ;
+border-radius : 8px ;
+}
