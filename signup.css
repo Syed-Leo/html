@@ -1,0 +1,30 @@
+body {
+background-color : black ;
+background-image : url("https://c4.wallpaperflare.com/wallpaper/18/254/495/movie-suicide-squad-black-hair-blonde-wallpaper-preview.jpg");
+background-repeat : no-repeat ;
+background-attachment : fixed ;
+background-size: 100% 100%;
+}
+
+h1 {
+color : red ;
+font-family: arial ;
+font-size : 90px ;
+text-align : center ;
+}
+h2 {
+position : relative ;
+bottom : 55px ;
+color : red ;
+font-family : roman ;
+text-align : center ;
+}
+h5 {
+color : red ;
+font-family : monospace ;
+position : absolute ;
+top : -120px ;
+font-size : 20px ;
+}
+
+.search
